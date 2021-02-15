@@ -1,0 +1,3 @@
+interface IScan {
+    String scan();
+}
